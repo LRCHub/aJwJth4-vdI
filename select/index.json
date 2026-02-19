@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Nasty",
+  "base_artist": "Tinashe",
+  "createdAt": "2026-02-19T00:11:50.384087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nasty Girl",
+      "artist": "Ludacris feat. Plies",
+      "has_synced": true,
+      "path": "select/01_Nasty_Girl_Ludacris_feat._Plies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nasty Girl (feat. Plies)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/02_Nasty_Girl_(feat._Plies)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nasty Love",
+      "artist": "Lords of Acid",
+      "has_synced": true,
+      "path": "select/03_Nasty_Love_Lords_of_Acid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nasty",
+      "artist": "Nav",
+      "has_synced": true,
+      "path": "select/04_Nasty_Nav.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nasty Boy",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/05_Nasty_Boy_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jungle (Rico Nasty Remix)",
+      "artist": "Fred again..",
+      "has_synced": false,
+      "path": "select/06_Jungle_(Rico_Nasty_Remix)_Fred_again...txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "nasty",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/07_nasty_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drunk And Nasty (feat. Sharc)",
+      "artist": "Pi’erre Bourne feat. Sharc",
+      "has_synced": true,
+      "path": "select/08_Drunk_And_Nasty_(feat._Sharc)_Pi’erre_Bourne_feat._Sharc.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drunk And Nasty (feat. Sharc)",
+      "artist": "Pi'Erre Bourne",
+      "has_synced": true,
+      "path": "select/09_Drunk_And_Nasty_(feat._Sharc)_Pi'Erre_Bourne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Interlude (553-Nasty)",
+      "artist": "Jodeci",
+      "has_synced": false,
+      "path": "select/10_Interlude_(553-Nasty)_Jodeci.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BAD NEWS (Feat. Rico Nasty)",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/11_BAD_NEWS_(Feat._Rico_Nasty)_IDK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "495 (feat. Rico Nasty, YungManny, Big Flock, Big JAM & Weensey)",
+      "artist": "IDK feat. YungManny, Big Flock, Big JAM, Rico Nasty & Weensey",
+      "has_synced": false,
+      "path": "select/12_495_(feat._Rico_Nasty,_YungManny,_Big_Flock,_Big_JAM_&_Weensey)_IDK_feat._YungManny,_Big_Flock,_Big_JAM,_Rico_Nasty_&_Weensey.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "495 (feat. Rico Nasty, YungManny, Big Flock, Big JAM & Weensey)",
+      "artist": "IDK",
+      "has_synced": false,
+      "path": "select/13_495_(feat._Rico_Nasty,_YungManny,_Big_Flock,_Big_JAM_&_Weensey)_IDK.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Girl Crush (feat. Rico Nasty)",
+      "artist": "Boys Noize",
+      "has_synced": true,
+      "path": "select/14_Girl_Crush_(feat._Rico_Nasty)_Boys_Noize.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nasty Habits",
+      "artist": "Oingo Boingo",
+      "has_synced": true,
+      "path": "select/15_Nasty_Habits_Oingo_Boingo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nasty",
+      "artist": "Tinashe",
+      "has_synced": false,
+      "path": "select/pl_01_Nasty_Tinashe.txt"
+    }
+  ]
+}
